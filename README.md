@@ -1,5 +1,5 @@
 # :arrow_right: **echoWebNerds** :arrow_left:
-👋 Hi,in our Team **echoWebNerds** Open source Team<br/> 
+__👋 Hi,in our Team **echoWebNerds** Open source Team__<br/> 
 - :earth_asia: Making web front programming projects <br/>  
 - :bookmark_tabs: Articles about web and Linux are done in groups
 - 👀 our Team interested in ...
